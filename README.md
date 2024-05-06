@@ -34,8 +34,7 @@ while True:
 ```
 ## OUPUT
 ### server
-![image](https://github.com/navinofficial/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/151710204/431be29a-ae17-4050-8b0c-43b0b9d7ffca)
-
+![image](https://github.com/navinofficial/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/151710204/a471d71b-fe6e-4472-ba5b-9badde07adb3)
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
